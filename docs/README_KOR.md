@@ -1,5 +1,7 @@
 # MIRA — Mass Spectrometry Imaging & Review App
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24354425.svg)](https://doi.org/10.5281/zenodo.24354425)
+
 **버전:** v0.3.4
 **업데이트:** 2026.08.14
 
@@ -296,7 +298,7 @@ MIRA는 [GNU General Public License v3.0](../LICENSE)으로 배포합니다. 독
 
 ## 인용
 
-MIRA 기술 논문을 준비 중입니다. 논문이 나오기 전까지는 이 저장소를 인용해 주세요 (첫 릴리스와 함께 Zenodo DOI를 이곳에 추가합니다).
+MIRA 기술 논문을 준비 중입니다. 논문이 나오기 전까지는 Zenodo 아카이브를 인용해 주세요: [doi:10.5281/zenodo.24354425](https://doi.org/10.5281/zenodo.24354425) (이 DOI는 항상 최신 버전을 가리킵니다).
 
 ## 문의
 

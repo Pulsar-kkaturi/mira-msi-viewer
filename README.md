@@ -13,6 +13,7 @@ MIRA opens imzML datasets (`.imzML` with the matching `.ibd`) and multi-channel 
 ![MIRA main window: ion image with ROI and pixel crosshair, global and ROI spectra, and channel/display controls](docs/images/mira_main_window_v0.3.5.png)
 
 *MIRA v0.3.5 main window: ion image (left) with an ROI and pixel crosshair, Global Spectrum and Pixel/ROI Spectrum (right), and channel, brightness/contrast, and display controls (bottom).*
+*Data: METASPACE dataset [2026-04-07_16h29m00s](https://metaspace2020.org/dataset/2026-04-07_16h29m00s) ("Mouse brain, ischemia, male 3, 14d, pos"), submitted by Tingting Chen, University of Copenhagen, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The ion image was rendered in MIRA from the original imzML file.*
 
 ## Download
 

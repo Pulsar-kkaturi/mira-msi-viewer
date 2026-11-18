@@ -9,6 +9,10 @@ Mass Spectrometry Imaging(MSI) 데이터를 탐색·비교하기 위한 독립 �
 
 ---
 
+![MIRA 메인 창](images/mira_main_window_v0.3.5.png)
+
+*MIRA v0.3.5 메인 창: ion image와 ROI·픽셀 십자선(왼쪽), Global Spectrum과 Pixel/ROI Spectrum(오른쪽), 채널·밝기/대비·표시 설정(아래).*
+
 ## 주요 기능
 
 

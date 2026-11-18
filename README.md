@@ -10,6 +10,10 @@
 
 MIRA opens imzML datasets (`.imzML` with the matching `.ibd`) and multi-channel TIFF images (`.tif` / `.tiff`). It combines ion-image navigation, spectrum inspection, ROI comparison, line profiles, RGB colocalization, image and spectrum export, and up to three independent viewer windows.
 
+![MIRA main window: ion image with ROI and pixel crosshair, global and ROI spectra, and channel/display controls](docs/images/mira_main_window_v0.3.5.png)
+
+*MIRA v0.3.5 main window: ion image (left) with an ROI and pixel crosshair, Global Spectrum and Pixel/ROI Spectrum (right), and channel, brightness/contrast, and display controls (bottom).*
+
 ## Download
 
 | Platform | Download |

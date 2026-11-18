@@ -1,0 +1,12 @@
+# MSI Viewer - Mac/Windows 독립 실행형 뷰어 의존성
+# Python 3.11+ 권장 (uv venv --python 3.11 .venv)
+# 설치: pip install -r requirements.txt
+
+PyQt6>=6.6.0
+pyimzml>=1.5.5
+numpy>=1.26.0
+pyqtgraph>=0.13.7
+scikit-image>=0.22.0
+Pillow>=10.0.0
+tifffile>=2023.1.1
+PyInstaller>=6.0.0

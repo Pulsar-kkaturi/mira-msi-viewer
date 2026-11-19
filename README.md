@@ -222,4 +222,4 @@ A technical paper describing MIRA is in preparation. Until it is published, plea
 
 Feedback, bug reports, and feature requests are welcome through [GitHub Issues](https://github.com/Pulsar-kkaturi/mira-msi-viewer/issues).
 
-Developer: Jonghun Jeong · Applied Bioscience and Engineering Lab [link](https://biophyschem.snu.ac.kr/), Seoul National University · jonghun.jeong@snu.ac.kr
+Developer: Jonghun Jeong · [Applied Bioscience and Engineering Lab](https://biophyschem.snu.ac.kr/), Seoul National University · jonghun.jeong@snu.ac.kr
